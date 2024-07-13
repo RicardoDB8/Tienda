@@ -1,9 +1,12 @@
+import Layout from '../../Components/Layout'
+
+
 function HSignIn() {
  
     return (   
-        <div className="bg-red-200">
-          HSignIn
-        </div>
+        <Layout>
+          Sign In
+        </Layout>
     )
   }
   
